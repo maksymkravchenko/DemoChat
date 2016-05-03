@@ -15,7 +15,6 @@ typedef enum : NSInteger
 } PointerPosition;
 
 IB_DESIGNABLE
-
 @interface PointerView : UIView
 
 @property (nonatomic) IBInspectable PointerPosition pointerPosition;

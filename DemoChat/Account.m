@@ -19,7 +19,6 @@
 		_avatar = image;
 	}
 	return self;
-
 }
 
 - (instancetype)init
